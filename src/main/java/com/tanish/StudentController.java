@@ -10,7 +10,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class StudentController {
 	Controller
 	Dao dao=new Dao(); 
-	
+	kgfhjhjhjhjfjghfkghk
 	@RequestMapping("addStudent")
 	public ModelAndView addStudent()
 	{
