@@ -1,8 +1,12 @@
-<<<<<<< HEAD
+
 add second line
-=======
+
 Add first line
->>>>>>> 11470a752ed632c55045f54f6ed80ed4c57d9474
+
+
+Added only in masrer
+Added second in marsher
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
